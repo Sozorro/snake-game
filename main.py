@@ -6,7 +6,7 @@ pygame.init()  # подключение библиотеки
 
 dis_lenght = 640  # длина экрана
 dis_width = 1000  # ширина экрана
-dis = pygame.display.set_mode((dis_width, dis_lenght))  # Размер игрового поля.
+dis = pygame.display.set_mode((dis_width, dis_lenght))  # Размер игрового поля
 pygame.display.set_caption("Змейка")  # название
 
 # color = (r, g, b)
